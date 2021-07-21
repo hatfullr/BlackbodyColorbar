@@ -1,7 +1,7 @@
-# BlackbodyColorbar
 <p align="center">
   <img src="BlackbodyColorbar.png">
 </p>
+# BlackbodyColorbar
 
 Make sure to place the file `BlackbodyColorbar.py` in your current
 working directory first.
