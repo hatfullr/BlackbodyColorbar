@@ -1,5 +1,7 @@
 # BlackbodyColorbar
-![text](BlackbodyColorbar.png)
+<p align="center">
+![](BlackbodyColorbar.png)
+</p>
 
 Make sure to place the file `BlackbodyColorbar.py` in your current
 working directory first.
