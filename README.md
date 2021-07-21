@@ -1,4 +1,7 @@
 # BlackbodyColorbar
+Make sure to place the file `BlackbodyColorbar.py` in your current
+working directory first.
+
 This module gives access to Matplotlib colormaps for the blackbody
 spectrum. There is a slightly different spectrum for objects with 
 apparent sizes of 2 degrees and 10 degrees due to exposure to human eye
