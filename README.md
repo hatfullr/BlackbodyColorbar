@@ -1,5 +1,5 @@
 # BlackbodyColorbar
-![](https://github.com/hatfullr/BlackbodyColorbar/master/BlackbodyColorbar.png)
+![text](https://github.com/hatfullr/BlackbodyColorbar/master/BlackbodyColorbar.png)
 
 Make sure to place the file `BlackbodyColorbar.py` in your current
 working directory first.
