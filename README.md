@@ -1,6 +1,6 @@
 # BlackbodyColorbar
 <p align="center">
-![](BlackbodyColorbar.png)
+  <img src="BlackbodyColorbar.png">
 </p>
 
 Make sure to place the file `BlackbodyColorbar.py` in your current
