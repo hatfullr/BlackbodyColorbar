@@ -1,4 +1,6 @@
 # BlackbodyColorbar
+![](https://github.com/hatfullr/BlackbodyColorbar/blob/master/BlackbodyColorbar.png?raw=true)
+
 Make sure to place the file `BlackbodyColorbar.py` in your current
 working directory first.
 
